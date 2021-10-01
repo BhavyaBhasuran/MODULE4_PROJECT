@@ -1,0 +1,50 @@
+.bg {
+    /* Full height */
+    height: 100%;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#feild{
+    width: 25%;
+    height: 350px;
+    background-color: rgb(151, 224, 151);
+}
+
+h1, h2{
+    color: rgb(26, 25, 25);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1{
+    font-size: 30px;
+}
+#div{
+    margin-top: 35px;
+}
+#submit{
+    height: 35px;
+    width: 95px;
+    border-color: rgb(88, 115, 116);
+    border-width: 7px;
+    background-color: darkgrey;
+    color: cornsilk;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+#a{
+    color: rgb(27, 12, 241);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.input{
+    height: 30px;
+    width: 300px;
+}
+label{
+    color: rgb(24, 23, 22);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 17px;
+}
